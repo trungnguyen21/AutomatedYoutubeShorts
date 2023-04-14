@@ -1,0 +1,8 @@
+venv/
+credentials/
+final-videos/
+audio/
+videos/
+depedencies/
+config.py
+__pycache__/
