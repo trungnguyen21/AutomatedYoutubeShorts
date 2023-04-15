@@ -2,13 +2,13 @@
 
 This project produces videos for YoutubeShorts using AI, fully-automatic!
 
-# Features ✨
+## Features ✨
 No video compilation or editiing skills are needed. Everything is automatically generated. 
 
 - Automatically fetch video from Pexels
 - Generate voice-over, subtitle using AI, auto compile to one video using `moviepy`
 
-# Files 💾
+## Files 💾
 
 - `main.py` The main script
 - `voice.py` Generate AI voices based on your content using Google Cloud Text to Speech
@@ -16,14 +16,14 @@ No video compilation or editiing skills are needed. Everything is automatically 
 - `sub.py` Generate transcript and subtitle for the audio using AssemblyAI
 - `final_video.py` Edit the videos using moviepy 
 
-# Dependencies 👨‍💻
+## Dependencies 👨‍💻
 
 - `requirements.txt` Essential Python packages
 - A Google Cloud account
 - AssemblyAI API key
 - ['ImageMagik'](https://imagemagick.org/script/download.php) and ['ffmpeg'](https://www.ffmpeg.org/download.html)
 
-# Installation 💻
+## Installation 💻
 1. Clone this project!
 
 2. Setup .csv file: 
@@ -40,7 +40,7 @@ Include API keys in `config.py`
 5. Execute script: 
 Run `main.py` and wait until the program finishes ✅
 
-# Demo 🎞
+## Demo 🎞
 
 https://user-images.githubusercontent.com/37546053/232180344-6758b9ae-7773-45d9-a707-61e93f3648b3.mp4
 
