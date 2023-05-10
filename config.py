@@ -1,0 +1,2 @@
+assemblyai = 'INSERT YOUR API KEY HERE'
+pexelKey = 'INSERT YOUR API KEY HERE'
