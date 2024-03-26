@@ -1,8 +1,7 @@
 venv/
-credentials/
-final-videos/
-audio/
-videos/
+components/
+results/
 depedencies/
 config.py
 __pycache__/
+./vscode/
