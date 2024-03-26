@@ -55,13 +55,15 @@ Exported files are included in `results` folder of this project
 
 
 # Change logs:
-* March 26, 2024: 
-- Re-factor codes
+*March 26, 2024:* 
+- Refactor codes
 - Re-organize files
 - Migrate to ElevenLabs for TTS
-- Add custom-built library for getting portrait videos from Pexels
+- Add a custom-built library for getting portrait videos from Pexels
 - Add instructions for Mac users
 
-* May 9, 2023: Add the `config.py` file
+*May 9, 2023:*
+- Add the `config.py` file
 
-* April 14, 2023: Initial release
+*April 14, 2023:*
+- Initial release
