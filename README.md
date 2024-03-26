@@ -33,11 +33,14 @@ The file should include a 'title' and 'body' data for the script to work
 Include API keys in `config.py`
 
 4. Installing dependencies:
+   
 *Window users*:
 - `pip install -r requirements.txt`
 - Install ['ImageMagik'](https://imagemagick.org/script/download.php) and ['ffmpeg'](https://www.ffmpeg.org/download.html)  
 *For `ffmpeg` refer to this [guide](https://phoenixnap.com/kb/ffmpeg-windows)*
+
 *Mac users*:
+- `pip install -r requirements.txt`
 - Install HomeBrew
 - Run these 2 commands in the terminal:
 `brew intsall ffmpeg`
@@ -51,7 +54,7 @@ Run `main.py` and wait until the program finishes ✅
 https://user-images.githubusercontent.com/37546053/232180344-6758b9ae-7773-45d9-a707-61e93f3648b3.mp4
 
 
-Exported files are included in `results` folder of this project
+Exported files are included in `results/` folder of this project
 
 
 # Change logs:
